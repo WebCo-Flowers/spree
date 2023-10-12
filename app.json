@@ -10,8 +10,8 @@
     {"url": "https://github.com/spark-solutions/heroku-buildpack-spree.git"}
   ],
   "addons": [
-    "heroku-postgresql:hobby-dev",
-    "heroku-redis:hobby-dev",
+    "heroku-postgresql:mini",
+    "heroku-redis:mini",
     "sendgrid:starter",
     "memcachedcloud:30"
   ],
