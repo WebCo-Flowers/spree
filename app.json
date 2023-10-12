@@ -8,9 +8,6 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
-    },
-    {
       "url": "https://github.com/heroku/heroku-buildpack-ruby"
     },
     {"url": "https://github.com/spark-solutions/heroku-buildpack-spree.git"}
