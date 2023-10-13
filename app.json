@@ -30,5 +30,6 @@
       "description": "We will create an admin user with this password.",
       "value": "spree123"
     }
-  }
+  },
+  "stack": "heroku-20"
 }
