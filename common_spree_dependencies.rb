@@ -3,6 +3,8 @@
 # the one component of Spree.
 source 'https://rubygems.org'
 
+ruby File.open('.ruby-version').readline.chomp
+
 gem 'sass-rails'
 # gem 'sqlite3', '~> 1.4.0', platforms: [:ruby, :mingw, :mswin, :x64_mingw]
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
